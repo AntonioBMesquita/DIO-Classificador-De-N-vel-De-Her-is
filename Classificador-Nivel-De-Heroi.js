@@ -21,7 +21,7 @@ switch (true) {
     case (xp > 8000 && xp <= 9000):
         ranking = "Ascendente";
         break;
-    case (xp > 9000 && xp <= 10000): // Corrigido o valor de 1000 para 10000
+    case (xp > 9000 && xp <= 10000):
         ranking = "Imortal";
         break;
     default:
